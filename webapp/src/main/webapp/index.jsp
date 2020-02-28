@@ -4,4 +4,4 @@
 <h2> Deploying on a VM </h2>
 <h2> Deploying on Container </h2> 
 <h2> Deploying on Container new one </h2> 
-
+<h2> Deploying in COntainer using ansible and full automation </h2>
